@@ -1,0 +1,12 @@
+{
+  "name": "testing-multiversx",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/XP-NETWORK/testing-multiversx.git",
+  "author": "Dima Brook <dima@xp.network>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "ethers": "5.7.2"
+  }
+}
